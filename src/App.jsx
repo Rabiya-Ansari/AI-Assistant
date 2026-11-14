@@ -1,10 +1,10 @@
 import React from 'react'
-import Chatboard from './components/Chatboard'
+import Chatbot from './components/Chatbot'
 
 const App = () => {
   return (
     <div>
-      <Chatboard/>
+      <Chatbot/>
     </div>
   )
 }
